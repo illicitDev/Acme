@@ -283,7 +283,9 @@ career here, you'll have to answer the following:
   slightly different things running on all of them. How could containers help us
   improve this situation?
 
-Answer both of these questions (baseline ~5 sentences) here in text.
+The most important parts of a code review are feedback, readability, and documentation. Without these 3 things it will be difficult or even impossible to give/receive a good code review.  
+
+In order to make things run smoother at ACME we could use Docker containers to increase compatibility across multiple operating systems.
 
 ### Part 8 - Turn it in!
 
